@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D Human Anatomy System | Skeleton, Muscles & Nervous System</title>
+  <meta name="description" content="Interactive 3D Human Anatomy System with Skeleton, Muscular System, and Nervous System. Over 400 interactive anatomical parts with detailed medical classifications." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./src/style.css" />
+</head>
+<body>
+  <!-- App Container -->
+  <div id="app">
+    <!-- 3D WebGL Canvas Container -->
+    <div id="canvas-container">
+      <canvas id="webgl-canvas"></canvas>
+    </div>
+
+    <!-- Header Navigation -->
+    <header class="app-header">
+      <div class="header-left">
+        <div class="logo-badge">
+          <div class="logo-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="5" r="3"/>
+              <path d="M12 8v8"/>
+              <path d="M8 12h8"/>
+              <path d="M9 16l-3 5"/>
+              <path d="M15 16l3 5"/>
+            </svg>
+          </div>
+          <div class="logo-text">
+            <span class="brand-title">ANATOMY 3D</span>
+            <span class="brand-sub">SKELETON • MUSCLE • NERVE</span>
+          </div>
+        </div>
+
+        <!-- Multi-System Toggle Buttons -->
+        <div class="systems-toggle-group">
+          <button id="toggle-skeleton-btn" class="system-btn active" data-system="skeleton" title="Toggle Skeletal System">
+            <span class="system-icon">🦴</span>
+            <span class="system-name">Skeleton</span>
+            <span id="skeleton-count-badge" class="count-pill">201</span>
+          </button>
+          <button id="toggle-muscle-btn" class="system-btn active" data-system="muscle" title="Toggle Muscular System">
+            <span class="system-icon">💪</span>
+            <span class="system-name">Muscles</span>
+            <span id="muscle-count-badge" class="count-pill">467</span>
+          </button>
+          <button id="toggle-nerve-btn" class="system-btn active" data-system="nerve" title="Toggle Nervous System">
+            <span class="system-icon">⚡</span>
+            <span class="system-name">Nerves</span>
+            <span id="nerve-count-badge" class="count-pill">35</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="header-center">
+        <!-- Unified 400+ Parts Search Bar -->
+        <div class="search-wrapper">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="bone-search-input" placeholder="Search 400+ bones, muscles & nerves..." autocomplete="off" />
+          <button id="search-clear-btn" class="icon-btn search-clear hidden" title="Clear search">✕</button>
+          
+          <!-- Search Dropdown Results -->
+          <div id="search-dropdown" class="search-dropdown hidden"></div>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <!-- Exploded View Slider -->
+        <div class="slider-control" title="Explode / Separate anatomical layers outward">
+          <span class="slider-label">Explode:</span>
+          <input type="range" id="explode-slider" min="0" max="100" value="0" step="1" />
+          <span id="explode-val" class="slider-val">0%</span>
+        </div>
+
+        <!-- Render Mode Switcher -->
+        <div class="dropdown-control">
+          <select id="material-mode-select" class="custom-select" title="Shading Mode">
+            <option value="realistic">🎨 Realistic Tones</option>
+            <option value="systems">🌈 Color by System</option>
+            <option value="xray">⚡ Luminous X-Ray</option>
+            <option value="ghost">👻 Translucent Ghost</option>
+          </select>
+        </div>
+
+        <!-- Audio Mute Button -->
+        <button id="audio-toggle-btn" class="icon-btn" title="Toggle Sound Feedback">
+          <svg id="audio-on-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          </svg>
+          <svg id="audio-off-icon" class="hidden" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <line x1="23" y1="9" x2="17" y2="15"></line>
+            <line x1="17" y1="9" x2="23" y2="15"></line>
+          </svg>
+        </button>
+
+        <!-- Help / Guide Modal Button -->
+        <button id="help-btn" class="icon-btn" title="Interaction Guide">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Region Filter Chips Bar -->
+    <div class="region-bar">
+      <div class="region-chips-scroll">
+        <button class="chip active" data-region="all">
+          <span class="chip-dot" style="background: #38bdf8;"></span> All Structures
+        </button>
+        <button class="chip" data-region="head">
+          <span class="chip-dot" style="background: #38bdf8;"></span> Head & Neck
+        </button>
+        <button class="chip" data-region="thorax">
+          <span class="chip-dot" style="background: #f59e0b;"></span> Thorax & Spine
+        </button>
+        <button class="chip" data-region="shoulder">
+          <span class="chip-dot" style="background: #10b981;"></span> Shoulders & Arms
+        </button>
+        <button class="chip" data-region="pelvis">
+          <span class="chip-dot" style="background: #ec4899;"></span> Pelvis & Abdomen
+        </button>
+        <button class="chip" data-region="leg">
+          <span class="chip-dot" style="background: #eab308;"></span> Legs & Feet
+        </button>
+      </div>
+    </div>
+
+    <!-- Floating 3D Hover Tooltip -->
+    <div id="hover-tooltip" class="hover-tooltip hidden">
+      <div class="tooltip-dot" id="tooltip-dot"></div>
+      <div class="tooltip-content">
+        <div class="tooltip-top-row">
+          <span id="tooltip-badge" class="tooltip-badge">SKELETON</span>
+          <span id="tooltip-title" class="tooltip-title">Part Name</span>
+        </div>
+        <span id="tooltip-sub" class="tooltip-sub">Click to extract & examine</span>
+      </div>
+    </div>
+
+    <!-- Camera View Presets Bar (Floating Left) -->
+    <div class="viewport-presets">
+      <span class="presets-title">CAMERA VIEW</span>
+      <button class="preset-btn active" data-view="front" title="Front Anatomical View">Front</button>
+      <button class="preset-btn" data-view="back" title="Posterior / Back View">Back</button>
+      <button class="preset-btn" data-view="left" title="Left Lateral View">Left</button>
+      <button class="preset-btn" data-view="right" title="Right Lateral View">Right</button>
+      <div class="preset-divider"></div>
+      <button class="preset-btn" data-view="skull" title="Close-up Cranium">Head</button>
+      <button class="preset-btn" data-view="torso" title="Close-up Thorax & Spine">Torso</button>
+      <button class="preset-btn" data-view="pelvis" title="Close-up Pelvis">Pelvis</button>
+      <button class="preset-btn" data-view="full" title="Reset Camera">Reset</button>
+    </div>
+
+    <!-- Anatomical Information Panel (Right Floating HUD) -->
+    <aside id="info-panel" class="info-panel hidden">
+      <div class="panel-header">
+        <div class="panel-tag">
+          <span id="panel-system-badge" class="system-pill">🦴 SKELETAL SYSTEM</span>
+          <span id="panel-classification-badge" class="category-badge">BONE</span>
+        </div>
+        <button id="panel-close-btn" class="icon-btn panel-close" title="Close & Return Part">✕</button>
+      </div>
+
+      <!-- Classification Breadcrumb Hierarchy from Client txt -->
+      <div class="classification-breadcrumb">
+        <span class="breadcrumb-label">Classification:</span>
+        <span id="panel-breadcrumb-text" class="breadcrumb-text">Bone → Skull / Craniofacial → Frontal bone</span>
+      </div>
+
+      <div class="panel-hero">
+        <div class="hero-titles">
+          <h2 id="bone-title" class="bone-title">Frontal Bone</h2>
+          <span id="bone-latin" class="bone-latin">Os frontale</span>
+        </div>
+        <div class="status-indicator">
+          <span class="pulse-ring"></span>
+          <span class="status-text">EXTRACTED</span>
+        </div>
+      </div>
+
+      <!-- Action Buttons Row -->
+      <div class="panel-actions">
+        <button id="return-bone-btn" class="action-btn primary" title="Slide part back to anatomical position">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9 14 4 9 9 4"></polyline>
+            <path d="M20 20v-7a4 4 0 0 0-4-4H4"></path>
+          </svg>
+          Return Part
+        </button>
+
+        <button id="isolate-bone-btn" class="action-btn secondary" title="Hide other structures to isolate this part">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <circle cx="12" cy="12" r="4"></circle>
+          </svg>
+          <span id="isolate-text">Isolate Part</span>
+        </button>
+
+        <button id="speech-bone-btn" class="action-btn icon-only" title="Listen to pronunciation & summary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Scrollable Anatomical Content -->
+      <div class="panel-scroll-content">
+        <!-- Overview Section -->
+        <section class="info-section">
+          <h3 class="section-heading">
+            <span class="section-icon">📖</span> Anatomical Description
+          </h3>
+          <p id="bone-desc" class="section-text">
+            Description will appear here.
+          </p>
+        </section>
+
+        <!-- Biomechanical Function / Action -->
+        <section class="info-section">
+          <h3 class="section-heading">
+            <span id="func-section-icon" class="section-icon">⚡</span> 
+            <span id="func-section-title">Primary Function & Mechanics</span>
+          </h3>
+          <p id="bone-func" class="section-text">
+            Function and biomechanical movements.
+          </p>
+        </section>
+
+        <!-- Articulations / Attachments / Pathways -->
+        <section class="info-section">
+          <h3 class="section-heading">
+            <span id="conn-section-icon" class="section-icon">🔗</span> 
+            <span id="conn-section-title">Anatomical Connections & Landmarks</span>
+          </h3>
+          <p id="bone-artic" class="section-text">
+            Articulations, muscular attachments, or neural pathways.
+          </p>
+        </section>
+
+        <!-- Clinical Significance -->
+        <section class="info-section highlight-box">
+          <h3 class="section-heading">
+            <span class="section-icon">🩺</span> Clinical Significance
+          </h3>
+          <p id="bone-clin" class="section-text">
+            Fractures, sports injuries, surgical considerations, and pathologies.
+          </p>
+        </section>
+
+        <!-- Anatomical Trivia / Medical Insights -->
+        <section class="info-section trivia-box">
+          <h3 class="section-heading">
+            <span class="section-icon">💡</span> Medical & Biological Insight
+          </h3>
+          <p id="bone-trivia" class="section-text">
+            Evolutionary and physiological insights.
+          </p>
+        </section>
+      </div>
+
+      <!-- Navigation Footer (Prev / Next part) -->
+      <div class="panel-footer">
+        <button id="prev-bone-btn" class="nav-bone-btn" title="Previous part">
+          ← Previous
+        </button>
+        <span id="bone-index-tag" class="bone-index-tag">Part 1 of 700+</span>
+        <button id="next-bone-btn" class="nav-bone-btn" title="Next part">
+          Next →
+        </button>
+      </div>
+    </aside>
+
+    <!-- Bottom Controls & Hints Dock -->
+    <footer class="app-dock">
+      <div class="dock-hint">
+        <span class="hint-key">Left Click</span>
+        <span class="hint-label">Select & Extract Any Part</span>
+      </div>
+      <div class="dock-separator"></div>
+      <div class="dock-hint">
+        <span class="hint-key">Left Drag</span>
+        <span class="hint-label">Rotate 3D Body</span>
+      </div>
+      <div class="dock-separator"></div>
+      <div class="dock-hint">
+        <span class="hint-key">Right Drag</span>
+        <span class="hint-label">Pan Camera</span>
+      </div>
+      <div class="dock-separator"></div>
+      <div class="dock-hint">
+        <span class="hint-key">Scroll</span>
+        <span class="hint-label">Zoom In / Out</span>
+      </div>
+      <div class="dock-separator"></div>
+      <button id="reset-all-btn" class="dock-btn" title="Reset all parts and camera">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
+          <path d="M3 3v5h5"/>
+        </svg>
+        Reset View
+      </button>
+    </footer>
+
+    <!-- Loading Screen Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+      <div class="loading-card">
+        <div class="loading-spinner-ring">
+          <div class="spinner-core"></div>
+        </div>
+        <h2 class="loading-title">INITIALIZING 3D ANATOMY SYSTEMS</h2>
+        <p class="loading-sub" id="loading-sub-text">Loading high-resolution Skeleton, Muscles & Nervous System...</p>
+        <div class="progress-bar-container">
+          <div id="loading-progress-bar" class="progress-bar-fill"></div>
+        </div>
+        <span id="loading-percent" class="loading-percent">0%</span>
+      </div>
+    </div>
+
+    <!-- Help Modal Dialog -->
+    <div id="help-modal" class="modal-backdrop hidden">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>Interactive 3D Anatomy Guide</h3>
+          <button id="close-modal-btn" class="icon-btn">✕</button>
+        </div>
+        <div class="modal-body">
+          <div class="guide-item">
+            <div class="guide-icon">🦴💪⚡</div>
+            <div class="guide-text">
+              <strong>Multi-System Architecture:</strong> Toggle the <strong>Skeleton</strong>, <strong>Muscles</strong>, and <strong>Nervous System</strong> on or off independently using the top system buttons.
+            </div>
+          </div>
+          <div class="guide-item">
+            <div class="guide-icon">👆</div>
+            <div class="guide-text">
+              <strong>Extract Any Part:</strong> Click any bone, muscle, or nerve. The part will smoothly detach and pop out from the body with adaptive camera framing and detailed medical classification from the client specifications.
+            </div>
+          </div>
+          <div class="guide-item">
+            <div class="guide-icon">💥</div>
+            <div class="guide-text">
+              <strong>Exploded View:</strong> Adjust the top Explode slider to separate all skeletal, muscular, and neural components radially for comprehensive anatomical study.
+            </div>
+          </div>
+          <div class="guide-item">
+            <div class="guide-icon">🔍</div>
+            <div class="guide-text">
+              <strong>Search 400+ Parts:</strong> Quickly locate any bone, muscle, or nerve by typing its name in the search bar.
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button id="got-it-btn" class="action-btn primary">Got it, let's explore!</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

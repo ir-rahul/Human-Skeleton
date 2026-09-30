@@ -1,0 +1,373 @@
+Body Part / Structure	Detailed Classification	
+Left Sternocleidomastoid	Muscle → Neck / Cervical → Left → Sternocleidomastoid	Muscle
+Right Sternocleidomastoid	Muscle → Neck / Cervical → Right → Sternocleidomastoid	Muscle
+Left Scalenus anterior	Muscle → Neck / Cervical → Left → Scalenus anterior	Muscle
+Right Scalenus anterior	Muscle → Neck / Cervical → Right → Scalenus anterior	Muscle
+Left Scalenus medius	Muscle → Neck / Cervical → Left → Scalenus medius	Muscle
+Right Scalenus medius	Muscle → Neck / Cervical → Right → Scalenus medius	Muscle
+Left Scalenus posterior	Muscle → Neck / Cervical → Left → Scalenus posterior	Muscle
+Right Scalenus posterior	Muscle → Neck / Cervical → Right → Scalenus posterior	Muscle
+Left Longus colli	Muscle → Neck / Cervical → Left → Longus colli	Muscle
+Right Longus colli	Muscle → Neck / Cervical → Right → Longus colli	Muscle
+Left Longus capitis	Muscle → Neck / Cervical → Left → Longus capitis	Muscle
+Right Longus capitis	Muscle → Neck / Cervical → Right → Longus capitis	Muscle
+Left Splenius capitis	Muscle → Neck / Cervical → Left → Splenius capitis	Muscle
+Right Splenius capitis	Muscle → Neck / Cervical → Right → Splenius capitis	Muscle
+Left Splenius cervicis	Muscle → Neck / Cervical → Left → Splenius cervicis	Muscle
+Right Splenius cervicis	Muscle → Neck / Cervical → Right → Splenius cervicis	Muscle
+Left Semispinalis capitis	Muscle → Neck / Cervical → Left → Semispinalis capitis	Muscle
+Right Semispinalis capitis	Muscle → Neck / Cervical → Right → Semispinalis capitis	Muscle
+Left Semispinalis cervicis	Muscle → Neck / Cervical → Left → Semispinalis cervicis	Muscle
+Right Semispinalis cervicis	Muscle → Neck / Cervical → Right → Semispinalis cervicis	Muscle
+Left Rectus capitis posterior major	Muscle → Neck / Cervical → Left → Rectus capitis posterior major	Muscle
+Right Rectus capitis posterior major	Muscle → Neck / Cervical → Right → Rectus capitis posterior major	Muscle
+Left Rectus capitis posterior minor	Muscle → Neck / Cervical → Left → Rectus capitis posterior minor	Muscle
+Right Rectus capitis posterior minor	Muscle → Neck / Cervical → Right → Rectus capitis posterior minor	Muscle
+Left Obliquus capitis superior	Muscle → Neck / Cervical → Left → Obliquus capitis superior	Muscle
+Right Obliquus capitis superior	Muscle → Neck / Cervical → Right → Obliquus capitis superior	Muscle
+Left Obliquus capitis inferior	Muscle → Neck / Cervical → Left → Obliquus capitis inferior	Muscle
+Right Obliquus capitis inferior	Muscle → Neck / Cervical → Right → Obliquus capitis inferior	Muscle
+Left Levator scapulae	Muscle → Neck / Cervical → Left → Levator scapulae	Muscle
+Right Levator scapulae	Muscle → Neck / Cervical → Right → Levator scapulae	Muscle
+Left Trapezius	Muscle → Shoulder / Upper back → Left → Trapezius	Muscle
+Right Trapezius	Muscle → Shoulder / Upper back → Right → Trapezius	Muscle
+Left Rhomboid major	Muscle → Shoulder / Upper back → Left → Rhomboid major	Muscle
+Right Rhomboid major	Muscle → Shoulder / Upper back → Right → Rhomboid major	Muscle
+Left Rhomboid minor	Muscle → Shoulder / Upper back → Left → Rhomboid minor	Muscle
+Right Rhomboid minor	Muscle → Shoulder / Upper back → Right → Rhomboid minor	Muscle
+Left Serratus anterior	Muscle → Shoulder / Upper back → Left → Serratus anterior	Muscle
+Right Serratus anterior	Muscle → Shoulder / Upper back → Right → Serratus anterior	Muscle
+Left Supraspinatus	Muscle → Shoulder / Upper back → Left → Supraspinatus	Muscle
+Right Supraspinatus	Muscle → Shoulder / Upper back → Right → Supraspinatus	Muscle
+Left Infraspinatus	Muscle → Shoulder / Upper back → Left → Infraspinatus	Muscle
+Right Infraspinatus	Muscle → Shoulder / Upper back → Right → Infraspinatus	Muscle
+Left Teres minor	Muscle → Shoulder / Upper back → Left → Teres minor	Muscle
+Right Teres minor	Muscle → Shoulder / Upper back → Right → Teres minor	Muscle
+Left Teres major	Muscle → Shoulder / Upper back → Left → Teres major	Muscle
+Right Teres major	Muscle → Shoulder / Upper back → Right → Teres major	Muscle
+Left Subscapularis	Muscle → Shoulder / Upper back → Left → Subscapularis	Muscle
+Right Subscapularis	Muscle → Shoulder / Upper back → Right → Subscapularis	Muscle
+Left Deltoid	Muscle → Shoulder / Upper back → Left → Deltoid	Muscle
+Right Deltoid	Muscle → Shoulder / Upper back → Right → Deltoid	Muscle
+Left Pectoralis major	Muscle → Shoulder / Upper back → Left → Pectoralis major	Muscle
+Right Pectoralis major	Muscle → Shoulder / Upper back → Right → Pectoralis major	Muscle
+Left Pectoralis minor	Muscle → Shoulder / Upper back → Left → Pectoralis minor	Muscle
+Right Pectoralis minor	Muscle → Shoulder / Upper back → Right → Pectoralis minor	Muscle
+Left Latissimus dorsi	Muscle → Shoulder / Upper back → Left → Latissimus dorsi	Muscle
+Right Latissimus dorsi	Muscle → Shoulder / Upper back → Right → Latissimus dorsi	Muscle
+Left Biceps brachii	Muscle → Arm → Left → Biceps brachii	Muscle
+Right Biceps brachii	Muscle → Arm → Right → Biceps brachii	Muscle
+Left Triceps brachii	Muscle → Arm → Left → Triceps brachii	Muscle
+Right Triceps brachii	Muscle → Arm → Right → Triceps brachii	Muscle
+Left Brachialis	Muscle → Arm → Left → Brachialis	Muscle
+Right Brachialis	Muscle → Arm → Right → Brachialis	Muscle
+Left Coracobrachialis	Muscle → Arm → Left → Coracobrachialis	Muscle
+Right Coracobrachialis	Muscle → Arm → Right → Coracobrachialis	Muscle
+Left Anconeus	Muscle → Arm → Left → Anconeus	Muscle
+Right Anconeus	Muscle → Arm → Right → Anconeus	Muscle
+Left Brachioradialis	Muscle → Forearm → Left → Brachioradialis	Muscle
+Right Brachioradialis	Muscle → Forearm → Right → Brachioradialis	Muscle
+Left Pronator teres	Muscle → Forearm → Left → Pronator teres	Muscle
+Right Pronator teres	Muscle → Forearm → Right → Pronator teres	Muscle
+Left Pronator quadratus	Muscle → Forearm → Left → Pronator quadratus	Muscle
+Right Pronator quadratus	Muscle → Forearm → Right → Pronator quadratus	Muscle
+Left Supinator	Muscle → Forearm → Left → Supinator	Muscle
+Right Supinator	Muscle → Forearm → Right → Supinator	Muscle
+Left Flexor carpi radialis	Muscle → Forearm → Left → Flexor carpi radialis	Muscle
+Right Flexor carpi radialis	Muscle → Forearm → Right → Flexor carpi radialis	Muscle
+Left Flexor carpi ulnaris	Muscle → Forearm → Left → Flexor carpi ulnaris	Muscle
+Right Flexor carpi ulnaris	Muscle → Forearm → Right → Flexor carpi ulnaris	Muscle
+Left Palmaris longus	Muscle → Forearm → Left → Palmaris longus	Muscle
+Right Palmaris longus	Muscle → Forearm → Right → Palmaris longus	Muscle
+Left Flexor digitorum superficialis	Muscle → Forearm → Left → Flexor digitorum superficialis	Muscle
+Right Flexor digitorum superficialis	Muscle → Forearm → Right → Flexor digitorum superficialis	Muscle
+Left Flexor digitorum profundus	Muscle → Forearm → Left → Flexor digitorum profundus	Muscle
+Right Flexor digitorum profundus	Muscle → Forearm → Right → Flexor digitorum profundus	Muscle
+Left Extensor carpi radialis longus	Muscle → Forearm → Left → Extensor carpi radialis longus	Muscle
+Right Extensor carpi radialis longus	Muscle → Forearm → Right → Extensor carpi radialis longus	Muscle
+Left Extensor carpi radialis brevis	Muscle → Forearm → Left → Extensor carpi radialis brevis	Muscle
+Right Extensor carpi radialis brevis	Muscle → Forearm → Right → Extensor carpi radialis brevis	Muscle
+Left Extensor carpi ulnaris	Muscle → Forearm → Left → Extensor carpi ulnaris	Muscle
+Right Extensor carpi ulnaris	Muscle → Forearm → Right → Extensor carpi ulnaris	Muscle
+Left Extensor digitorum	Muscle → Forearm → Left → Extensor digitorum	Muscle
+Right Extensor digitorum	Muscle → Forearm → Right → Extensor digitorum	Muscle
+Left Thenar muscles	Muscle → Hand → Left → Thenar muscles	Muscle
+Right Thenar muscles	Muscle → Hand → Right → Thenar muscles	Muscle
+Left Hypothenar muscles	Muscle → Hand → Left → Hypothenar muscles	Muscle
+Right Hypothenar muscles	Muscle → Hand → Right → Hypothenar muscles	Muscle
+Left Lumbricals	Muscle → Hand → Left → Lumbricals	Muscle
+Right Lumbricals	Muscle → Hand → Right → Lumbricals	Muscle
+Left Dorsal interossei	Muscle → Hand → Left → Dorsal interossei	Muscle
+Right Dorsal interossei	Muscle → Hand → Right → Dorsal interossei	Muscle
+Left Palmar interossei	Muscle → Hand → Left → Palmar interossei	Muscle
+Right Palmar interossei	Muscle → Hand → Right → Palmar interossei	Muscle
+Left Rectus abdominis	Muscle → Abdomen / Trunk → Left → Rectus abdominis	Muscle
+Right Rectus abdominis	Muscle → Abdomen / Trunk → Right → Rectus abdominis	Muscle
+Left External oblique	Muscle → Abdomen / Trunk → Left → External oblique	Muscle
+Right External oblique	Muscle → Abdomen / Trunk → Right → External oblique	Muscle
+Left Internal oblique	Muscle → Abdomen / Trunk → Left → Internal oblique	Muscle
+Right Internal oblique	Muscle → Abdomen / Trunk → Right → Internal oblique	Muscle
+Left Transversus abdominis	Muscle → Abdomen / Trunk → Left → Transversus abdominis	Muscle
+Right Transversus abdominis	Muscle → Abdomen / Trunk → Right → Transversus abdominis	Muscle
+Left Quadratus lumborum	Muscle → Abdomen / Trunk → Left → Quadratus lumborum	Muscle
+Right Quadratus lumborum	Muscle → Abdomen / Trunk → Right → Quadratus lumborum	Muscle
+Left Erector spinae	Muscle → Abdomen / Trunk → Left → Erector spinae	Muscle
+Right Erector spinae	Muscle → Abdomen / Trunk → Right → Erector spinae	Muscle
+Left Multifidus	Muscle → Abdomen / Trunk → Left → Multifidus	Muscle
+Right Multifidus	Muscle → Abdomen / Trunk → Right → Multifidus	Muscle
+Left Rotatores	Muscle → Abdomen / Trunk → Left → Rotatores	Muscle
+Right Rotatores	Muscle → Abdomen / Trunk → Right → Rotatores	Muscle
+Left Intercostal muscles	Muscle → Abdomen / Trunk → Left → Intercostal muscles	Muscle
+Right Intercostal muscles	Muscle → Abdomen / Trunk → Right → Intercostal muscles	Muscle
+Left Gluteus maximus	Muscle → Hip / Gluteal → Left → Gluteus maximus	Muscle
+Right Gluteus maximus	Muscle → Hip / Gluteal → Right → Gluteus maximus	Muscle
+Left Gluteus medius	Muscle → Hip / Gluteal → Left → Gluteus medius	Muscle
+Right Gluteus medius	Muscle → Hip / Gluteal → Right → Gluteus medius	Muscle
+Left Gluteus minimus	Muscle → Hip / Gluteal → Left → Gluteus minimus	Muscle
+Right Gluteus minimus	Muscle → Hip / Gluteal → Right → Gluteus minimus	Muscle
+Left Piriformis	Muscle → Hip / Gluteal → Left → Piriformis	Muscle
+Right Piriformis	Muscle → Hip / Gluteal → Right → Piriformis	Muscle
+Left Tensor fasciae latae	Muscle → Hip / Gluteal → Left → Tensor fasciae latae	Muscle
+Right Tensor fasciae latae	Muscle → Hip / Gluteal → Right → Tensor fasciae latae	Muscle
+Left Iliacus	Muscle → Hip / Gluteal → Left → Iliacus	Muscle
+Right Iliacus	Muscle → Hip / Gluteal → Right → Iliacus	Muscle
+Left Psoas major	Muscle → Hip / Gluteal → Left → Psoas major	Muscle
+Right Psoas major	Muscle → Hip / Gluteal → Right → Psoas major	Muscle
+Left Iliopsoas	Muscle → Hip / Gluteal → Left → Iliopsoas	Muscle
+Right Iliopsoas	Muscle → Hip / Gluteal → Right → Iliopsoas	Muscle
+Left Rectus femoris	Muscle → Thigh → Left → Rectus femoris	Muscle
+Right Rectus femoris	Muscle → Thigh → Right → Rectus femoris	Muscle
+Left Vastus lateralis	Muscle → Thigh → Left → Vastus lateralis	Muscle
+Right Vastus lateralis	Muscle → Thigh → Right → Vastus lateralis	Muscle
+Left Vastus medialis	Muscle → Thigh → Left → Vastus medialis	Muscle
+Right Vastus medialis	Muscle → Thigh → Right → Vastus medialis	Muscle
+Left Vastus intermedius	Muscle → Thigh → Left → Vastus intermedius	Muscle
+Right Vastus intermedius	Muscle → Thigh → Right → Vastus intermedius	Muscle
+Left Biceps femoris	Muscle → Thigh → Left → Biceps femoris	Muscle
+Right Biceps femoris	Muscle → Thigh → Right → Biceps femoris	Muscle
+Left Semitendinosus	Muscle → Thigh → Left → Semitendinosus	Muscle
+Right Semitendinosus	Muscle → Thigh → Right → Semitendinosus	Muscle
+Left Semimembranosus	Muscle → Thigh → Left → Semimembranosus	Muscle
+Right Semimembranosus	Muscle → Thigh → Right → Semimembranosus	Muscle
+Left Sartorius	Muscle → Thigh → Left → Sartorius	Muscle
+Right Sartorius	Muscle → Thigh → Right → Sartorius	Muscle
+Left Adductor longus	Muscle → Thigh → Left → Adductor longus	Muscle
+Right Adductor longus	Muscle → Thigh → Right → Adductor longus	Muscle
+Left Adductor brevis	Muscle → Thigh → Left → Adductor brevis	Muscle
+Right Adductor brevis	Muscle → Thigh → Right → Adductor brevis	Muscle
+Left Adductor magnus	Muscle → Thigh → Left → Adductor magnus	Muscle
+Right Adductor magnus	Muscle → Thigh → Right → Adductor magnus	Muscle
+Left Gracilis	Muscle → Thigh → Left → Gracilis	Muscle
+Right Gracilis	Muscle → Thigh → Right → Gracilis	Muscle
+Left Pectineus	Muscle → Thigh → Left → Pectineus	Muscle
+Right Pectineus	Muscle → Thigh → Right → Pectineus	Muscle
+Left Gastrocnemius	Muscle → Lower leg → Left → Gastrocnemius	Muscle
+Right Gastrocnemius	Muscle → Lower leg → Right → Gastrocnemius	Muscle
+Left Soleus	Muscle → Lower leg → Left → Soleus	Muscle
+Right Soleus	Muscle → Lower leg → Right → Soleus	Muscle
+Left Plantaris	Muscle → Lower leg → Left → Plantaris	Muscle
+Right Plantaris	Muscle → Lower leg → Right → Plantaris	Muscle
+Left Tibialis anterior	Muscle → Lower leg → Left → Tibialis anterior	Muscle
+Right Tibialis anterior	Muscle → Lower leg → Right → Tibialis anterior	Muscle
+Left Tibialis posterior	Muscle → Lower leg → Left → Tibialis posterior	Muscle
+Right Tibialis posterior	Muscle → Lower leg → Right → Tibialis posterior	Muscle
+Left Fibularis longus	Muscle → Lower leg → Left → Fibularis longus	Muscle
+Right Fibularis longus	Muscle → Lower leg → Right → Fibularis longus	Muscle
+Left Fibularis brevis	Muscle → Lower leg → Left → Fibularis brevis	Muscle
+Right Fibularis brevis	Muscle → Lower leg → Right → Fibularis brevis	Muscle
+Left Extensor hallucis longus	Muscle → Lower leg → Left → Extensor hallucis longus	Muscle
+Right Extensor hallucis longus	Muscle → Lower leg → Right → Extensor hallucis longus	Muscle
+Left Extensor digitorum longus	Muscle → Lower leg → Left → Extensor digitorum longus	Muscle
+Right Extensor digitorum longus	Muscle → Lower leg → Right → Extensor digitorum longus	Muscle
+Left Flexor hallucis longus	Muscle → Lower leg → Left → Flexor hallucis longus	Muscle
+Right Flexor hallucis longus	Muscle → Lower leg → Right → Flexor hallucis longus	Muscle
+Left Flexor digitorum longus	Muscle → Lower leg → Left → Flexor digitorum longus	Muscle
+Right Flexor digitorum longus	Muscle → Lower leg → Right → Flexor digitorum longus	Muscle
+Left Abductor hallucis	Muscle → Foot → Left → Abductor hallucis	Muscle
+Right Abductor hallucis	Muscle → Foot → Right → Abductor hallucis	Muscle
+Left Flexor hallucis brevis	Muscle → Foot → Left → Flexor hallucis brevis	Muscle
+Right Flexor hallucis brevis	Muscle → Foot → Right → Flexor hallucis brevis	Muscle
+Left Adductor hallucis	Muscle → Foot → Left → Adductor hallucis	Muscle
+Right Adductor hallucis	Muscle → Foot → Right → Adductor hallucis	Muscle
+Left Abductor digiti minimi	Muscle → Foot → Left → Abductor digiti minimi	Muscle
+Right Abductor digiti minimi	Muscle → Foot → Right → Abductor digiti minimi	Muscle
+Left Flexor digiti minimi brevis	Muscle → Foot → Left → Flexor digiti minimi brevis	Muscle
+Right Flexor digiti minimi brevis	Muscle → Foot → Right → Flexor digiti minimi brevis	Muscle
+Left Quadratus plantae	Muscle → Foot → Left → Quadratus plantae	Muscle
+Right Quadratus plantae	Muscle → Foot → Right → Quadratus plantae	Muscle
+Left Plantar interossei	Muscle → Foot → Left → Plantar interossei	Muscle
+Right Plantar interossei	Muscle → Foot → Right → Plantar interossei	Muscle
+Left Supraspinatus tendon	Tendon → Shoulder → Left → Supraspinatus tendon	Muscle
+Right Supraspinatus tendon	Tendon → Shoulder → Right → Supraspinatus tendon	Muscle
+Left Infraspinatus tendon	Tendon → Shoulder → Left → Infraspinatus tendon	Muscle
+Right Infraspinatus tendon	Tendon → Shoulder → Right → Infraspinatus tendon	Muscle
+Left Subscapularis tendon	Tendon → Shoulder → Left → Subscapularis tendon	Muscle
+Right Subscapularis tendon	Tendon → Shoulder → Right → Subscapularis tendon	Muscle
+Left Teres minor tendon	Tendon → Shoulder → Left → Teres minor tendon	Muscle
+Right Teres minor tendon	Tendon → Shoulder → Right → Teres minor tendon	Muscle
+Left Long-head biceps tendon	Tendon → Shoulder → Left → Long-head biceps tendon	Muscle
+Right Long-head biceps tendon	Tendon → Shoulder → Right → Long-head biceps tendon	Muscle
+Left Common extensor tendon	Tendon → Elbow → Left → Common extensor tendon	Muscle
+Right Common extensor tendon	Tendon → Elbow → Right → Common extensor tendon	Muscle
+Left Common flexor tendon	Tendon → Elbow → Left → Common flexor tendon	Muscle
+Right Common flexor tendon	Tendon → Elbow → Right → Common flexor tendon	Muscle
+Left Biceps tendon	Tendon → Elbow → Left → Biceps tendon	Muscle
+Right Biceps tendon	Tendon → Elbow → Right → Biceps tendon	Muscle
+Left Triceps tendon	Tendon → Elbow → Left → Triceps tendon	Muscle
+Right Triceps tendon	Tendon → Elbow → Right → Triceps tendon	Muscle
+Left Flexor tendons	Tendon → Wrist / Hand → Left → Flexor tendons	Muscle
+Right Flexor tendons	Tendon → Wrist / Hand → Right → Flexor tendons	Muscle
+Left Extensor tendons	Tendon → Wrist / Hand → Left → Extensor tendons	Muscle
+Right Extensor tendons	Tendon → Wrist / Hand → Right → Extensor tendons	Muscle
+Left Thumb extensor tendons	Tendon → Wrist / Hand → Left → Thumb extensor tendons	Muscle
+Right Thumb extensor tendons	Tendon → Wrist / Hand → Right → Thumb extensor tendons	Muscle
+Left Finger flexor tendons	Tendon → Wrist / Hand → Left → Finger flexor tendons	Muscle
+Right Finger flexor tendons	Tendon → Wrist / Hand → Right → Finger flexor tendons	Muscle
+Left Gluteal tendons	Tendon → Hip / Thigh → Left → Gluteal tendons	Muscle
+Right Gluteal tendons	Tendon → Hip / Thigh → Right → Gluteal tendons	Muscle
+Left Hamstring tendons	Tendon → Hip / Thigh → Left → Hamstring tendons	Muscle
+Right Hamstring tendons	Tendon → Hip / Thigh → Right → Hamstring tendons	Muscle
+Left Adductor tendons	Tendon → Hip / Thigh → Left → Adductor tendons	Muscle
+Right Adductor tendons	Tendon → Hip / Thigh → Right → Adductor tendons	Muscle
+Left Iliopsoas tendon	Tendon → Hip / Thigh → Left → Iliopsoas tendon	Muscle
+Right Iliopsoas tendon	Tendon → Hip / Thigh → Right → Iliopsoas tendon	Muscle
+Left Quadriceps tendon	Tendon → Knee → Left → Quadriceps tendon	Muscle
+Right Quadriceps tendon	Tendon → Knee → Right → Quadriceps tendon	Muscle
+Left Patellar tendon	Tendon → Knee → Left → Patellar tendon	Muscle
+Right Patellar tendon	Tendon → Knee → Right → Patellar tendon	Muscle
+Left Pes anserine tendons	Tendon → Knee → Left → Pes anserine tendons	Muscle
+Right Pes anserine tendons	Tendon → Knee → Right → Pes anserine tendons	Muscle
+Left Achilles tendon	Tendon → Ankle / Foot → Left → Achilles tendon	Muscle
+Right Achilles tendon	Tendon → Ankle / Foot → Right → Achilles tendon	Muscle
+Left Tibialis anterior tendon	Tendon → Ankle / Foot → Left → Tibialis anterior tendon	Muscle
+Right Tibialis anterior tendon	Tendon → Ankle / Foot → Right → Tibialis anterior tendon	Muscle
+Left Tibialis posterior tendon	Tendon → Ankle / Foot → Left → Tibialis posterior tendon	Muscle
+Right Tibialis posterior tendon	Tendon → Ankle / Foot → Right → Tibialis posterior tendon	Muscle
+Left Fibularis longus tendon	Tendon → Ankle / Foot → Left → Fibularis longus tendon	Muscle
+Right Fibularis longus tendon	Tendon → Ankle / Foot → Right → Fibularis longus tendon	Muscle
+Left Fibularis brevis tendon	Tendon → Ankle / Foot → Left → Fibularis brevis tendon	Muscle
+Right Fibularis brevis tendon	Tendon → Ankle / Foot → Right → Fibularis brevis tendon	Muscle
+Left Flexor hallucis tendon	Tendon → Ankle / Foot → Left → Flexor hallucis tendon	Muscle
+Right Flexor hallucis tendon	Tendon → Ankle / Foot → Right → Flexor hallucis tendon	Muscle
+Left Extensor hallucis tendon	Tendon → Ankle / Foot → Left → Extensor hallucis tendon	Muscle
+Right Extensor hallucis tendon	Tendon → Ankle / Foot → Right → Extensor hallucis tendon	Muscle
+Left Anterior longitudinal ligament	Ligament → Cervical → Left → Anterior longitudinal ligament	Muscle
+Right Anterior longitudinal ligament	Ligament → Cervical → Right → Anterior longitudinal ligament	Muscle
+Left Posterior longitudinal ligament	Ligament → Cervical → Left → Posterior longitudinal ligament	Muscle
+Right Posterior longitudinal ligament	Ligament → Cervical → Right → Posterior longitudinal ligament	Muscle
+Left Ligamentum flavum	Ligament → Cervical → Left → Ligamentum flavum	Muscle
+Right Ligamentum flavum	Ligament → Cervical → Right → Ligamentum flavum	Muscle
+Left Interspinous ligament	Ligament → Cervical → Left → Interspinous ligament	Muscle
+Right Interspinous ligament	Ligament → Cervical → Right → Interspinous ligament	Muscle
+Left Supraspinous ligament	Ligament → Cervical → Left → Supraspinous ligament	Muscle
+Right Supraspinous ligament	Ligament → Cervical → Right → Supraspinous ligament	Muscle
+Left Nuchal ligament	Ligament → Cervical → Left → Nuchal ligament	Muscle
+Right Nuchal ligament	Ligament → Cervical → Right → Nuchal ligament	Muscle
+Left Facet capsular ligament	Ligament → Cervical → Left → Facet capsular ligament	Muscle
+Right Facet capsular ligament	Ligament → Cervical → Right → Facet capsular ligament	Muscle
+Left Iliolumbar ligament	Ligament → Lumbar → Left → Iliolumbar ligament	Muscle
+Right Iliolumbar ligament	Ligament → Lumbar → Right → Iliolumbar ligament	Muscle
+Left Anterior sacroiliac ligament	Ligament → Pelvis → Left → Anterior sacroiliac ligament	Muscle
+Right Anterior sacroiliac ligament	Ligament → Pelvis → Right → Anterior sacroiliac ligament	Muscle
+Left Interosseous sacroiliac ligament	Ligament → Pelvis → Left → Interosseous sacroiliac ligament	Muscle
+Right Interosseous sacroiliac ligament	Ligament → Pelvis → Right → Interosseous sacroiliac ligament	Muscle
+Left Posterior sacroiliac ligament	Ligament → Pelvis → Left → Posterior sacroiliac ligament	Muscle
+Right Posterior sacroiliac ligament	Ligament → Pelvis → Right → Posterior sacroiliac ligament	Muscle
+Left Sacrospinous ligament	Ligament → Pelvis → Left → Sacrospinous ligament	Muscle
+Right Sacrospinous ligament	Ligament → Pelvis → Right → Sacrospinous ligament	Muscle
+Left Sacrotuberous ligament	Ligament → Pelvis → Left → Sacrotuberous ligament	Muscle
+Right Sacrotuberous ligament	Ligament → Pelvis → Right → Sacrotuberous ligament	Muscle
+Left Acromioclavicular ligament	Ligament → Shoulder → Left → Acromioclavicular ligament	Muscle
+Right Acromioclavicular ligament	Ligament → Shoulder → Right → Acromioclavicular ligament	Muscle
+Left Coracoclavicular ligament	Ligament → Shoulder → Left → Coracoclavicular ligament	Muscle
+Right Coracoclavicular ligament	Ligament → Shoulder → Right → Coracoclavicular ligament	Muscle
+Left Coracoacromial ligament	Ligament → Shoulder → Left → Coracoacromial ligament	Muscle
+Right Coracoacromial ligament	Ligament → Shoulder → Right → Coracoacromial ligament	Muscle
+Left Glenohumeral ligaments	Ligament → Shoulder → Left → Glenohumeral ligaments	Muscle
+Right Glenohumeral ligaments	Ligament → Shoulder → Right → Glenohumeral ligaments	Muscle
+Left Sternoclavicular ligaments	Ligament → Shoulder → Left → Sternoclavicular ligaments	Muscle
+Right Sternoclavicular ligaments	Ligament → Shoulder → Right → Sternoclavicular ligaments	Muscle
+Left Ulnar collateral ligament	Ligament → Elbow → Left → Ulnar collateral ligament	Muscle
+Right Ulnar collateral ligament	Ligament → Elbow → Right → Ulnar collateral ligament	Muscle
+Left Radial collateral ligament	Ligament → Elbow → Left → Radial collateral ligament	Muscle
+Right Radial collateral ligament	Ligament → Elbow → Right → Radial collateral ligament	Muscle
+Left Annular ligament	Ligament → Elbow → Left → Annular ligament	Muscle
+Right Annular ligament	Ligament → Elbow → Right → Annular ligament	Muscle
+Left Scapholunate ligament	Ligament → Wrist / Hand → Left → Scapholunate ligament	Muscle
+Right Scapholunate ligament	Ligament → Wrist / Hand → Right → Scapholunate ligament	Muscle
+Left Lunotriquetral ligament	Ligament → Wrist / Hand → Left → Lunotriquetral ligament	Muscle
+Right Lunotriquetral ligament	Ligament → Wrist / Hand → Right → Lunotriquetral ligament	Muscle
+Left Thumb collateral ligament	Ligament → Wrist / Hand → Left → Thumb collateral ligament	Muscle
+Right Thumb collateral ligament	Ligament → Wrist / Hand → Right → Thumb collateral ligament	Muscle
+Left Wrist collateral ligaments	Ligament → Wrist / Hand → Left → Wrist collateral ligaments	Muscle
+Right Wrist collateral ligaments	Ligament → Wrist / Hand → Right → Wrist collateral ligaments	Muscle
+Left Iliofemoral ligament	Ligament → Hip → Left → Iliofemoral ligament	Muscle
+Right Iliofemoral ligament	Ligament → Hip → Right → Iliofemoral ligament	Muscle
+Left Pubofemoral ligament	Ligament → Hip → Left → Pubofemoral ligament	Muscle
+Right Pubofemoral ligament	Ligament → Hip → Right → Pubofemoral ligament	Muscle
+Left Ischiofemoral ligament	Ligament → Hip → Left → Ischiofemoral ligament	Muscle
+Right Ischiofemoral ligament	Ligament → Hip → Right → Ischiofemoral ligament	Muscle
+Left Ligamentum teres	Ligament → Hip → Left → Ligamentum teres	Muscle
+Right Ligamentum teres	Ligament → Hip → Right → Ligamentum teres	Muscle
+Left Anterior cruciate ligament (ACL)	Ligament → Knee → Left → Anterior cruciate ligament (ACL)	Muscle
+Right Anterior cruciate ligament (ACL)	Ligament → Knee → Right → Anterior cruciate ligament (ACL)	Muscle
+Left Posterior cruciate ligament (PCL)	Ligament → Knee → Left → Posterior cruciate ligament (PCL)	Muscle
+Right Posterior cruciate ligament (PCL)	Ligament → Knee → Right → Posterior cruciate ligament (PCL)	Muscle
+Left Medial collateral ligament (MCL)	Ligament → Knee → Left → Medial collateral ligament (MCL)	Muscle
+Right Medial collateral ligament (MCL)	Ligament → Knee → Right → Medial collateral ligament (MCL)	Muscle
+Left Lateral collateral ligament (LCL)	Ligament → Knee → Left → Lateral collateral ligament (LCL)	Muscle
+Right Lateral collateral ligament (LCL)	Ligament → Knee → Right → Lateral collateral ligament (LCL)	Muscle
+Left Patellar retinaculum	Ligament → Knee → Left → Patellar retinaculum	Muscle
+Right Patellar retinaculum	Ligament → Knee → Right → Patellar retinaculum	Muscle
+Left Deltoid ligament	Ligament → Ankle / Foot → Left → Deltoid ligament	Muscle
+Right Deltoid ligament	Ligament → Ankle / Foot → Right → Deltoid ligament	Muscle
+Left Anterior talofibular ligament	Ligament → Ankle / Foot → Left → Anterior talofibular ligament	Muscle
+Right Anterior talofibular ligament	Ligament → Ankle / Foot → Right → Anterior talofibular ligament	Muscle
+Left Calcaneofibular ligament	Ligament → Ankle / Foot → Left → Calcaneofibular ligament	Muscle
+Right Calcaneofibular ligament	Ligament → Ankle / Foot → Right → Calcaneofibular ligament	Muscle
+Left Posterior talofibular ligament	Ligament → Ankle / Foot → Left → Posterior talofibular ligament	Muscle
+Right Posterior talofibular ligament	Ligament → Ankle / Foot → Right → Posterior talofibular ligament	Muscle
+Left Lisfranc ligaments	Ligament → Ankle / Foot → Left → Lisfranc ligaments	Muscle
+Right Lisfranc ligaments	Ligament → Ankle / Foot → Right → Lisfranc ligaments	Muscle
+Left Deep cervical fascia	Fascia / Soft Tissue → Neck → Left → Deep cervical fascia	Muscle
+Right Deep cervical fascia	Fascia / Soft Tissue → Neck → Right → Deep cervical fascia	Muscle
+Left Prevertebral fascia	Fascia / Soft Tissue → Neck → Left → Prevertebral fascia	Muscle
+Right Prevertebral fascia	Fascia / Soft Tissue → Neck → Right → Prevertebral fascia	Muscle
+Left Thoracolumbar fascia	Fascia / Soft Tissue → Trunk → Left → Thoracolumbar fascia	Muscle
+Right Thoracolumbar fascia	Fascia / Soft Tissue → Trunk → Right → Thoracolumbar fascia	Muscle
+Left Pectoral fascia	Fascia / Soft Tissue → Trunk → Left → Pectoral fascia	Muscle
+Right Pectoral fascia	Fascia / Soft Tissue → Trunk → Right → Pectoral fascia	Muscle
+Left Intercostal fascia	Fascia / Soft Tissue → Trunk → Left → Intercostal fascia	Muscle
+Right Intercostal fascia	Fascia / Soft Tissue → Trunk → Right → Intercostal fascia	Muscle
+Left Iliotibial tract	Fascia / Soft Tissue → Hip / Thigh → Left → Iliotibial tract	Muscle
+Right Iliotibial tract	Fascia / Soft Tissue → Hip / Thigh → Right → Iliotibial tract	Muscle
+Left Fascia lata	Fascia / Soft Tissue → Hip / Thigh → Left → Fascia lata	Muscle
+Right Fascia lata	Fascia / Soft Tissue → Hip / Thigh → Right → Fascia lata	Muscle
+Left Gluteal fascia	Fascia / Soft Tissue → Hip / Thigh → Left → Gluteal fascia	Muscle
+Right Gluteal fascia	Fascia / Soft Tissue → Hip / Thigh → Right → Gluteal fascia	Muscle
+Left Crural fascia	Fascia / Soft Tissue → Lower leg → Left → Crural fascia	Muscle
+Right Crural fascia	Fascia / Soft Tissue → Lower leg → Right → Crural fascia	Muscle
+Left Plantar fascia	Fascia / Soft Tissue → Foot → Left → Plantar fascia	Muscle
+Right Plantar fascia	Fascia / Soft Tissue → Foot → Right → Plantar fascia	Muscle
+Left Cervical plexus	Plexus → Left → Cervical plexus	Muscle
+Right Cervical plexus	Plexus → Right → Cervical plexus	Muscle
+Left Brachial plexus	Plexus → Left → Brachial plexus	Muscle
+Right Brachial plexus	Plexus → Right → Brachial plexus	Muscle
+Left Lumbar plexus	Plexus → Left → Lumbar plexus	Muscle
+Right Lumbar plexus	Plexus → Right → Lumbar plexus	Muscle
+Left Sacral plexus	Plexus → Left → Sacral plexus	Muscle
+Right Sacral plexus	Plexus → Right → Sacral plexus	Muscle
+Left Lumbosacral plexus	Plexus → Left → Lumbosacral plexus	Muscle
+Right Lumbosacral plexus	Plexus → Right → Lumbosacral plexus	Muscle
+Left Brachial plexus upper trunk	Plexus → Left → Brachial plexus upper trunk	Muscle
+Right Brachial plexus upper trunk	Plexus → Right → Brachial plexus upper trunk	Muscle
+Left Brachial plexus middle trunk	Plexus → Left → Brachial plexus middle trunk	Muscle
+Right Brachial plexus middle trunk	Plexus → Right → Brachial plexus middle trunk	Muscle
+Left Brachial plexus lower trunk	Plexus → Left → Brachial plexus lower trunk	Muscle
+Right Brachial plexus lower trunk	Plexus → Right → Brachial plexus lower trunk	Muscle
+Left Brachial plexus lateral cord	Plexus → Left → Brachial plexus lateral cord	Muscle
+Right Brachial plexus lateral cord	Plexus → Right → Brachial plexus lateral cord	Muscle
+Left Brachial plexus medial cord	Plexus → Left → Brachial plexus medial cord	Muscle
+Right Brachial plexus medial cord	Plexus → Right → Brachial plexus medial cord	Muscle
+Left Brachial plexus posterior cord	Plexus → Left → Brachial plexus posterior cord	Muscle
+Right Brachial plexus posterior cord	Plexus → Right → Brachial plexus posterior cord	Muscle

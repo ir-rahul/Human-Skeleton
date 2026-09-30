@@ -1,0 +1,379 @@
+Body Part / Structure	Detailed Classification	
+Occipital bone	Bone → Skull / Craniofacial → Occipital bone	Skeleton
+Frontal bone	Bone → Skull / Craniofacial → Frontal bone	Skeleton
+Parietal bone	Bone → Skull / Craniofacial → Parietal bone	Skeleton
+Temporal bone	Bone → Skull / Craniofacial → Temporal bone	Skeleton
+Sphenoid bone	Bone → Skull / Craniofacial → Sphenoid bone	Skeleton
+Ethmoid bone	Bone → Skull / Craniofacial → Ethmoid bone	Skeleton
+Maxilla	Bone → Skull / Craniofacial → Maxilla	Skeleton
+Mandible	Bone → Skull / Craniofacial → Mandible	Skeleton
+Zygomatic bone	Bone → Skull / Craniofacial → Zygomatic bone	Skeleton
+Nasal bone	Bone → Skull / Craniofacial → Nasal bone	Skeleton
+Vomer	Bone → Skull / Craniofacial → Vomer	Skeleton
+Palatine bone	Bone → Skull / Craniofacial → Palatine bone	Skeleton
+C1 (Atlas)	Bone → Vertebrae → Cervical → C1 (Atlas)	Skeleton
+C2 (Axis)	Bone → Vertebrae → Cervical → C2 (Axis)	Skeleton
+C3 vertebra	Bone → Vertebrae → Cervical → C3 vertebra	Skeleton
+C4 vertebra	Bone → Vertebrae → Cervical → C4 vertebra	Skeleton
+C5 vertebra	Bone → Vertebrae → Cervical → C5 vertebra	Skeleton
+C6 vertebra	Bone → Vertebrae → Cervical → C6 vertebra	Skeleton
+C7 vertebra	Bone → Vertebrae → Cervical → C7 vertebra	Skeleton
+T1 vertebra	Bone → Vertebrae → Thoracic → T1	Skeleton
+T2 vertebra	Bone → Vertebrae → Thoracic → T2	Skeleton
+T3 vertebra	Bone → Vertebrae → Thoracic → T3	Skeleton
+T4 vertebra	Bone → Vertebrae → Thoracic → T4	Skeleton
+T5 vertebra	Bone → Vertebrae → Thoracic → T5	Skeleton
+T6 vertebra	Bone → Vertebrae → Thoracic → T6	Skeleton
+T7 vertebra	Bone → Vertebrae → Thoracic → T7	Skeleton
+T8 vertebra	Bone → Vertebrae → Thoracic → T8	Skeleton
+T9 vertebra	Bone → Vertebrae → Thoracic → T9	Skeleton
+T10 vertebra	Bone → Vertebrae → Thoracic → T10	Skeleton
+T11 vertebra	Bone → Vertebrae → Thoracic → T11	Skeleton
+T12 vertebra	Bone → Vertebrae → Thoracic → T12	Skeleton
+L1 vertebra	Bone → Vertebrae → Lumbar → L1	Skeleton
+L2 vertebra	Bone → Vertebrae → Lumbar → L2	Skeleton
+L3 vertebra	Bone → Vertebrae → Lumbar → L3	Skeleton
+L4 vertebra	Bone → Vertebrae → Lumbar → L4	Skeleton
+L5 vertebra	Bone → Vertebrae → Lumbar → L5	Skeleton
+Sacrum	Bone → Sacrum / Coccyx → Sacrum	Skeleton
+Coccyx	Bone → Sacrum / Coccyx → Coccyx	Skeleton
+S1	Bone → Sacrum / Coccyx → S1	Skeleton
+S2	Bone → Sacrum / Coccyx → S2	Skeleton
+S3	Bone → Sacrum / Coccyx → S3	Skeleton
+S4	Bone → Sacrum / Coccyx → S4	Skeleton
+S5	Bone → Sacrum / Coccyx → S5	Skeleton
+Co1	Bone → Sacrum / Coccyx → Co1	Skeleton
+Left rib 1	Bone → Ribs → Left → Rib 1	Skeleton
+Right rib 1	Bone → Ribs → Right → Rib 1	Skeleton
+Left rib 2	Bone → Ribs → Left → Rib 2	Skeleton
+Right rib 2	Bone → Ribs → Right → Rib 2	Skeleton
+Left rib 3	Bone → Ribs → Left → Rib 3	Skeleton
+Right rib 3	Bone → Ribs → Right → Rib 3	Skeleton
+Left rib 4	Bone → Ribs → Left → Rib 4	Skeleton
+Right rib 4	Bone → Ribs → Right → Rib 4	Skeleton
+Left rib 5	Bone → Ribs → Left → Rib 5	Skeleton
+Right rib 5	Bone → Ribs → Right → Rib 5	Skeleton
+Left rib 6	Bone → Ribs → Left → Rib 6	Skeleton
+Right rib 6	Bone → Ribs → Right → Rib 6	Skeleton
+Left rib 7	Bone → Ribs → Left → Rib 7	Skeleton
+Right rib 7	Bone → Ribs → Right → Rib 7	Skeleton
+Left rib 8	Bone → Ribs → Left → Rib 8	Skeleton
+Right rib 8	Bone → Ribs → Right → Rib 8	Skeleton
+Left rib 9	Bone → Ribs → Left → Rib 9	Skeleton
+Right rib 9	Bone → Ribs → Right → Rib 9	Skeleton
+Left rib 10	Bone → Ribs → Left → Rib 10	Skeleton
+Right rib 10	Bone → Ribs → Right → Rib 10	Skeleton
+Left rib 11	Bone → Ribs → Left → Rib 11	Skeleton
+Right rib 11	Bone → Ribs → Right → Rib 11	Skeleton
+Left rib 12	Bone → Ribs → Left → Rib 12	Skeleton
+Right rib 12	Bone → Ribs → Right → Rib 12	Skeleton
+Manubrium	Bone → Thoracic cage → Sternum → Manubrium	Skeleton
+Sternal body	Bone → Thoracic cage → Sternum → Sternal body	Skeleton
+Xiphoid process	Bone → Thoracic cage → Sternum → Xiphoid process	Skeleton
+Left Ilium	Bone → Pelvis → Left → Ilium	Skeleton
+Right Ilium	Bone → Pelvis → Right → Ilium	Skeleton
+Left Iliac crest	Bone → Pelvis → Left → Iliac crest	Skeleton
+Right Iliac crest	Bone → Pelvis → Right → Iliac crest	Skeleton
+Left ASIS	Bone → Pelvis → Left → ASIS	Skeleton
+Right ASIS	Bone → Pelvis → Right → ASIS	Skeleton
+Left AIIS	Bone → Pelvis → Left → AIIS	Skeleton
+Right AIIS	Bone → Pelvis → Right → AIIS	Skeleton
+Left PSIS	Bone → Pelvis → Left → PSIS	Skeleton
+Right PSIS	Bone → Pelvis → Right → PSIS	Skeleton
+Left PIIS	Bone → Pelvis → Left → PIIS	Skeleton
+Right PIIS	Bone → Pelvis → Right → PIIS	Skeleton
+Left Ischium	Bone → Pelvis → Left → Ischium	Skeleton
+Right Ischium	Bone → Pelvis → Right → Ischium	Skeleton
+Left Ischial tuberosity	Bone → Pelvis → Left → Ischial tuberosity	Skeleton
+Right Ischial tuberosity	Bone → Pelvis → Right → Ischial tuberosity	Skeleton
+Left Pubis	Bone → Pelvis → Left → Pubis	Skeleton
+Right Pubis	Bone → Pelvis → Right → Pubis	Skeleton
+Left Superior pubic ramus	Bone → Pelvis → Left → Superior pubic ramus	Skeleton
+Right Superior pubic ramus	Bone → Pelvis → Right → Superior pubic ramus	Skeleton
+Left Inferior pubic ramus	Bone → Pelvis → Left → Inferior pubic ramus	Skeleton
+Right Inferior pubic ramus	Bone → Pelvis → Right → Inferior pubic ramus	Skeleton
+Left Clavicle	Bone → Shoulder girdle → Left → Clavicle	Skeleton
+Right Clavicle	Bone → Shoulder girdle → Right → Clavicle	Skeleton
+Left Scapula	Bone → Shoulder girdle → Left → Scapula	Skeleton
+Right Scapula	Bone → Shoulder girdle → Right → Scapula	Skeleton
+Left Acromion	Bone → Shoulder girdle → Left → Acromion	Skeleton
+Right Acromion	Bone → Shoulder girdle → Right → Acromion	Skeleton
+Left Coracoid process	Bone → Shoulder girdle → Left → Coracoid process	Skeleton
+Right Coracoid process	Bone → Shoulder girdle → Right → Coracoid process	Skeleton
+Left Humerus	Bone → Upper limb → Left → Humerus	Skeleton
+Right Humerus	Bone → Upper limb → Right → Humerus	Skeleton
+Left Medial epicondyle	Bone → Upper limb → Left → Medial epicondyle	Skeleton
+Right Medial epicondyle	Bone → Upper limb → Right → Medial epicondyle	Skeleton
+Left Lateral epicondyle	Bone → Upper limb → Left → Lateral epicondyle	Skeleton
+Right Lateral epicondyle	Bone → Upper limb → Right → Lateral epicondyle	Skeleton
+Left Olecranon	Bone → Upper limb → Left → Olecranon	Skeleton
+Right Olecranon	Bone → Upper limb → Right → Olecranon	Skeleton
+Left Radius	Bone → Forearm → Left → Radius	Skeleton
+Right Radius	Bone → Forearm → Right → Radius	Skeleton
+Left Ulna	Bone → Forearm → Left → Ulna	Skeleton
+Right Ulna	Bone → Forearm → Right → Ulna	Skeleton
+Left Radial head	Bone → Forearm → Left → Radial head	Skeleton
+Right Radial head	Bone → Forearm → Right → Radial head	Skeleton
+Left Ulnar head	Bone → Forearm → Left → Ulnar head	Skeleton
+Right Ulnar head	Bone → Forearm → Right → Ulnar head	Skeleton
+Left Scaphoid	Bone → Wrist → Left → Scaphoid	Skeleton
+Right Scaphoid	Bone → Wrist → Right → Scaphoid	Skeleton
+Left Lunate	Bone → Wrist → Left → Lunate	Skeleton
+Right Lunate	Bone → Wrist → Right → Lunate	Skeleton
+Left Triquetrum	Bone → Wrist → Left → Triquetrum	Skeleton
+Right Triquetrum	Bone → Wrist → Right → Triquetrum	Skeleton
+Left Pisiform	Bone → Wrist → Left → Pisiform	Skeleton
+Right Pisiform	Bone → Wrist → Right → Pisiform	Skeleton
+Left Trapezium	Bone → Wrist → Left → Trapezium	Skeleton
+Right Trapezium	Bone → Wrist → Right → Trapezium	Skeleton
+Left Trapezoid	Bone → Wrist → Left → Trapezoid	Skeleton
+Right Trapezoid	Bone → Wrist → Right → Trapezoid	Skeleton
+Left Capitate	Bone → Wrist → Left → Capitate	Skeleton
+Right Capitate	Bone → Wrist → Right → Capitate	Skeleton
+Left Hamate	Bone → Wrist → Left → Hamate	Skeleton
+Right Hamate	Bone → Wrist → Right → Hamate	Skeleton
+Left metacarpal 1	Bone → Hand → Left → Metacarpal 1	Skeleton
+Right metacarpal 1	Bone → Hand → Right → Metacarpal 1	Skeleton
+Left metacarpal 2	Bone → Hand → Left → Metacarpal 2	Skeleton
+Right metacarpal 2	Bone → Hand → Right → Metacarpal 2	Skeleton
+Left metacarpal 3	Bone → Hand → Left → Metacarpal 3	Skeleton
+Right metacarpal 3	Bone → Hand → Right → Metacarpal 3	Skeleton
+Left metacarpal 4	Bone → Hand → Left → Metacarpal 4	Skeleton
+Right metacarpal 4	Bone → Hand → Right → Metacarpal 4	Skeleton
+Left metacarpal 5	Bone → Hand → Left → Metacarpal 5	Skeleton
+Right metacarpal 5	Bone → Hand → Right → Metacarpal 5	Skeleton
+Left proximal phalanx of thumb	Bone → Hand → Left → thumb → proximal phalanx	Skeleton
+Right proximal phalanx of thumb	Bone → Hand → Right → thumb → proximal phalanx	Skeleton
+Left distal phalanx of thumb	Bone → Hand → Left → thumb → distal phalanx	Skeleton
+Right distal phalanx of thumb	Bone → Hand → Right → thumb → distal phalanx	Skeleton
+Left proximal phalanx of index finger	Bone → Hand → Left → index finger → proximal phalanx	Skeleton
+Right proximal phalanx of index finger	Bone → Hand → Right → index finger → proximal phalanx	Skeleton
+Left middle phalanx of index finger	Bone → Hand → Left → index finger → middle phalanx	Skeleton
+Right middle phalanx of index finger	Bone → Hand → Right → index finger → middle phalanx	Skeleton
+Left distal phalanx of index finger	Bone → Hand → Left → index finger → distal phalanx	Skeleton
+Right distal phalanx of index finger	Bone → Hand → Right → index finger → distal phalanx	Skeleton
+Left proximal phalanx of middle finger	Bone → Hand → Left → middle finger → proximal phalanx	Skeleton
+Right proximal phalanx of middle finger	Bone → Hand → Right → middle finger → proximal phalanx	Skeleton
+Left middle phalanx of middle finger	Bone → Hand → Left → middle finger → middle phalanx	Skeleton
+Right middle phalanx of middle finger	Bone → Hand → Right → middle finger → middle phalanx	Skeleton
+Left distal phalanx of middle finger	Bone → Hand → Left → middle finger → distal phalanx	Skeleton
+Right distal phalanx of middle finger	Bone → Hand → Right → middle finger → distal phalanx	Skeleton
+Left proximal phalanx of ring finger	Bone → Hand → Left → ring finger → proximal phalanx	Skeleton
+Right proximal phalanx of ring finger	Bone → Hand → Right → ring finger → proximal phalanx	Skeleton
+Left middle phalanx of ring finger	Bone → Hand → Left → ring finger → middle phalanx	Skeleton
+Right middle phalanx of ring finger	Bone → Hand → Right → ring finger → middle phalanx	Skeleton
+Left distal phalanx of ring finger	Bone → Hand → Left → ring finger → distal phalanx	Skeleton
+Right distal phalanx of ring finger	Bone → Hand → Right → ring finger → distal phalanx	Skeleton
+Left proximal phalanx of little finger	Bone → Hand → Left → little finger → proximal phalanx	Skeleton
+Right proximal phalanx of little finger	Bone → Hand → Right → little finger → proximal phalanx	Skeleton
+Left middle phalanx of little finger	Bone → Hand → Left → little finger → middle phalanx	Skeleton
+Right middle phalanx of little finger	Bone → Hand → Right → little finger → middle phalanx	Skeleton
+Left distal phalanx of little finger	Bone → Hand → Left → little finger → distal phalanx	Skeleton
+Right distal phalanx of little finger	Bone → Hand → Right → little finger → distal phalanx	Skeleton
+Left Femur	Bone → Hip / Thigh → Left → Femur	Skeleton
+Right Femur	Bone → Hip / Thigh → Right → Femur	Skeleton
+Left Femoral head	Bone → Hip / Thigh → Left → Femoral head	Skeleton
+Right Femoral head	Bone → Hip / Thigh → Right → Femoral head	Skeleton
+Left Femoral neck	Bone → Hip / Thigh → Left → Femoral neck	Skeleton
+Right Femoral neck	Bone → Hip / Thigh → Right → Femoral neck	Skeleton
+Left Greater trochanter	Bone → Hip / Thigh → Left → Greater trochanter	Skeleton
+Right Greater trochanter	Bone → Hip / Thigh → Right → Greater trochanter	Skeleton
+Left Lesser trochanter	Bone → Hip / Thigh → Left → Lesser trochanter	Skeleton
+Right Lesser trochanter	Bone → Hip / Thigh → Right → Lesser trochanter	Skeleton
+Left Patella	Bone → Knee → Left → Patella	Skeleton
+Right Patella	Bone → Knee → Right → Patella	Skeleton
+Left Medial femoral condyle	Bone → Knee → Left → Medial femoral condyle	Skeleton
+Right Medial femoral condyle	Bone → Knee → Right → Medial femoral condyle	Skeleton
+Left Lateral femoral condyle	Bone → Knee → Left → Lateral femoral condyle	Skeleton
+Right Lateral femoral condyle	Bone → Knee → Right → Lateral femoral condyle	Skeleton
+Left Medial tibial plateau	Bone → Knee → Left → Medial tibial plateau	Skeleton
+Right Medial tibial plateau	Bone → Knee → Right → Medial tibial plateau	Skeleton
+Left Lateral tibial plateau	Bone → Knee → Left → Lateral tibial plateau	Skeleton
+Right Lateral tibial plateau	Bone → Knee → Right → Lateral tibial plateau	Skeleton
+Left Tibia	Bone → Lower leg → Left → Tibia	Skeleton
+Right Tibia	Bone → Lower leg → Right → Tibia	Skeleton
+Left Fibula	Bone → Lower leg → Left → Fibula	Skeleton
+Right Fibula	Bone → Lower leg → Right → Fibula	Skeleton
+Left Medial malleolus	Bone → Lower leg → Left → Medial malleolus	Skeleton
+Right Medial malleolus	Bone → Lower leg → Right → Medial malleolus	Skeleton
+Left Lateral malleolus	Bone → Lower leg → Left → Lateral malleolus	Skeleton
+Right Lateral malleolus	Bone → Lower leg → Right → Lateral malleolus	Skeleton
+Left Talus	Bone → Ankle / Hindfoot → Left → Talus	Skeleton
+Right Talus	Bone → Ankle / Hindfoot → Right → Talus	Skeleton
+Left Calcaneus	Bone → Ankle / Hindfoot → Left → Calcaneus	Skeleton
+Right Calcaneus	Bone → Ankle / Hindfoot → Right → Calcaneus	Skeleton
+Left Navicular	Bone → Ankle / Hindfoot → Left → Navicular	Skeleton
+Right Navicular	Bone → Ankle / Hindfoot → Right → Navicular	Skeleton
+Left Cuboid	Bone → Ankle / Hindfoot → Left → Cuboid	Skeleton
+Right Cuboid	Bone → Ankle / Hindfoot → Right → Cuboid	Skeleton
+Left Medial cuneiform	Bone → Ankle / Hindfoot → Left → Medial cuneiform	Skeleton
+Right Medial cuneiform	Bone → Ankle / Hindfoot → Right → Medial cuneiform	Skeleton
+Left Intermediate cuneiform	Bone → Ankle / Hindfoot → Left → Intermediate cuneiform	Skeleton
+Right Intermediate cuneiform	Bone → Ankle / Hindfoot → Right → Intermediate cuneiform	Skeleton
+Left Lateral cuneiform	Bone → Ankle / Hindfoot → Left → Lateral cuneiform	Skeleton
+Right Lateral cuneiform	Bone → Ankle / Hindfoot → Right → Lateral cuneiform	Skeleton
+Left metatarsal 1	Bone → Foot → Left → Metatarsal 1	Skeleton
+Right metatarsal 1	Bone → Foot → Right → Metatarsal 1	Skeleton
+Left metatarsal 2	Bone → Foot → Left → Metatarsal 2	Skeleton
+Right metatarsal 2	Bone → Foot → Right → Metatarsal 2	Skeleton
+Left metatarsal 3	Bone → Foot → Left → Metatarsal 3	Skeleton
+Right metatarsal 3	Bone → Foot → Right → Metatarsal 3	Skeleton
+Left metatarsal 4	Bone → Foot → Left → Metatarsal 4	Skeleton
+Right metatarsal 4	Bone → Foot → Right → Metatarsal 4	Skeleton
+Left metatarsal 5	Bone → Foot → Left → Metatarsal 5	Skeleton
+Right metatarsal 5	Bone → Foot → Right → Metatarsal 5	Skeleton
+Left proximal phalanx of great toe	Bone → Foot → Left → great toe → proximal phalanx	Skeleton
+Right proximal phalanx of great toe	Bone → Foot → Right → great toe → proximal phalanx	Skeleton
+Left distal phalanx of great toe	Bone → Foot → Left → great toe → distal phalanx	Skeleton
+Right distal phalanx of great toe	Bone → Foot → Right → great toe → distal phalanx	Skeleton
+Left proximal phalanx of 2nd toe	Bone → Foot → Left → 2nd toe → proximal phalanx	Skeleton
+Right proximal phalanx of 2nd toe	Bone → Foot → Right → 2nd toe → proximal phalanx	Skeleton
+Left middle phalanx of 2nd toe	Bone → Foot → Left → 2nd toe → middle phalanx	Skeleton
+Right middle phalanx of 2nd toe	Bone → Foot → Right → 2nd toe → middle phalanx	Skeleton
+Left distal phalanx of 2nd toe	Bone → Foot → Left → 2nd toe → distal phalanx	Skeleton
+Right distal phalanx of 2nd toe	Bone → Foot → Right → 2nd toe → distal phalanx	Skeleton
+Left proximal phalanx of 3rd toe	Bone → Foot → Left → 3rd toe → proximal phalanx	Skeleton
+Right proximal phalanx of 3rd toe	Bone → Foot → Right → 3rd toe → proximal phalanx	Skeleton
+Left middle phalanx of 3rd toe	Bone → Foot → Left → 3rd toe → middle phalanx	Skeleton
+Right middle phalanx of 3rd toe	Bone → Foot → Right → 3rd toe → middle phalanx	Skeleton
+Left distal phalanx of 3rd toe	Bone → Foot → Left → 3rd toe → distal phalanx	Skeleton
+Right distal phalanx of 3rd toe	Bone → Foot → Right → 3rd toe → distal phalanx	Skeleton
+Left proximal phalanx of 4th toe	Bone → Foot → Left → 4th toe → proximal phalanx	Skeleton
+Right proximal phalanx of 4th toe	Bone → Foot → Right → 4th toe → proximal phalanx	Skeleton
+Left middle phalanx of 4th toe	Bone → Foot → Left → 4th toe → middle phalanx	Skeleton
+Right middle phalanx of 4th toe	Bone → Foot → Right → 4th toe → middle phalanx	Skeleton
+Left distal phalanx of 4th toe	Bone → Foot → Left → 4th toe → distal phalanx	Skeleton
+Right distal phalanx of 4th toe	Bone → Foot → Right → 4th toe → distal phalanx	Skeleton
+Left proximal phalanx of 5th toe	Bone → Foot → Left → 5th toe → proximal phalanx	Skeleton
+Right proximal phalanx of 5th toe	Bone → Foot → Right → 5th toe → proximal phalanx	Skeleton
+Left middle phalanx of 5th toe	Bone → Foot → Left → 5th toe → middle phalanx	Skeleton
+Right middle phalanx of 5th toe	Bone → Foot → Right → 5th toe → middle phalanx	Skeleton
+Left distal phalanx of 5th toe	Bone → Foot → Left → 5th toe → distal phalanx	Skeleton
+Right distal phalanx of 5th toe	Bone → Foot → Right → 5th toe → distal phalanx	Skeleton
+Left C2-C3 facet joint	Joint → Cervical spine → Left → C2-C3 facet joint	Skeleton
+Right C2-C3 facet joint	Joint → Cervical spine → Right → C2-C3 facet joint	Skeleton
+Left C3-C4 facet joint	Joint → Cervical spine → Left → C3-C4 facet joint	Skeleton
+Right C3-C4 facet joint	Joint → Cervical spine → Right → C3-C4 facet joint	Skeleton
+Left C4-C5 facet joint	Joint → Cervical spine → Left → C4-C5 facet joint	Skeleton
+Right C4-C5 facet joint	Joint → Cervical spine → Right → C4-C5 facet joint	Skeleton
+Left C5-C6 facet joint	Joint → Cervical spine → Left → C5-C6 facet joint	Skeleton
+Right C5-C6 facet joint	Joint → Cervical spine → Right → C5-C6 facet joint	Skeleton
+Left C6-C7 facet joint	Joint → Cervical spine → Left → C6-C7 facet joint	Skeleton
+Right C6-C7 facet joint	Joint → Cervical spine → Right → C6-C7 facet joint	Skeleton
+Left C7-T1 facet joint	Joint → Cervical spine → Left → C7-T1 facet joint	Skeleton
+Right C7-T1 facet joint	Joint → Cervical spine → Right → C7-T1 facet joint	Skeleton
+Left T1-T2 facet joint	Joint → Thoracic spine → Left → T1-T2 facet joint	Skeleton
+Right T1-T2 facet joint	Joint → Thoracic spine → Right → T1-T2 facet joint	Skeleton
+Left T2-T3 facet joint	Joint → Thoracic spine → Left → T2-T3 facet joint	Skeleton
+Right T2-T3 facet joint	Joint → Thoracic spine → Right → T2-T3 facet joint	Skeleton
+Left T3-T4 facet joint	Joint → Thoracic spine → Left → T3-T4 facet joint	Skeleton
+Right T3-T4 facet joint	Joint → Thoracic spine → Right → T3-T4 facet joint	Skeleton
+Left T4-T5 facet joint	Joint → Thoracic spine → Left → T4-T5 facet joint	Skeleton
+Right T4-T5 facet joint	Joint → Thoracic spine → Right → T4-T5 facet joint	Skeleton
+Left T5-T6 facet joint	Joint → Thoracic spine → Left → T5-T6 facet joint	Skeleton
+Right T5-T6 facet joint	Joint → Thoracic spine → Right → T5-T6 facet joint	Skeleton
+Left T6-T7 facet joint	Joint → Thoracic spine → Left → T6-T7 facet joint	Skeleton
+Right T6-T7 facet joint	Joint → Thoracic spine → Right → T6-T7 facet joint	Skeleton
+Left T7-T8 facet joint	Joint → Thoracic spine → Left → T7-T8 facet joint	Skeleton
+Right T7-T8 facet joint	Joint → Thoracic spine → Right → T7-T8 facet joint	Skeleton
+Left T8-T9 facet joint	Joint → Thoracic spine → Left → T8-T9 facet joint	Skeleton
+Right T8-T9 facet joint	Joint → Thoracic spine → Right → T8-T9 facet joint	Skeleton
+Left T9-T10 facet joint	Joint → Thoracic spine → Left → T9-T10 facet joint	Skeleton
+Right T9-T10 facet joint	Joint → Thoracic spine → Right → T9-T10 facet joint	Skeleton
+Left T10-T11 facet joint	Joint → Thoracic spine → Left → T10-T11 facet joint	Skeleton
+Right T10-T11 facet joint	Joint → Thoracic spine → Right → T10-T11 facet joint	Skeleton
+Left T11-T12 facet joint	Joint → Thoracic spine → Left → T11-T12 facet joint	Skeleton
+Right T11-T12 facet joint	Joint → Thoracic spine → Right → T11-T12 facet joint	Skeleton
+Left T12-T13 facet joint	Joint → Thoracic spine → Left → T12-T13 facet joint	Skeleton
+Right T12-T13 facet joint	Joint → Thoracic spine → Right → T12-T13 facet joint	Skeleton
+Left L1-L2 facet joint	Joint → Lumbar spine → Left → L1-L2 facet joint	Skeleton
+Right L1-L2 facet joint	Joint → Lumbar spine → Right → L1-L2 facet joint	Skeleton
+Left L2-L3 facet joint	Joint → Lumbar spine → Left → L2-L3 facet joint	Skeleton
+Right L2-L3 facet joint	Joint → Lumbar spine → Right → L2-L3 facet joint	Skeleton
+Left L3-L4 facet joint	Joint → Lumbar spine → Left → L3-L4 facet joint	Skeleton
+Right L3-L4 facet joint	Joint → Lumbar spine → Right → L3-L4 facet joint	Skeleton
+Left L4-L5 facet joint	Joint → Lumbar spine → Left → L4-L5 facet joint	Skeleton
+Right L4-L5 facet joint	Joint → Lumbar spine → Right → L4-L5 facet joint	Skeleton
+Left L5-S1 facet joint	Joint → Lumbar spine → Left → L5-S1 facet joint	Skeleton
+Right L5-S1 facet joint	Joint → Lumbar spine → Right → L5-S1 facet joint	Skeleton
+Left Costovertebral joint	Joint → Ribs → Left → Costovertebral joint	Skeleton
+Right Costovertebral joint	Joint → Ribs → Right → Costovertebral joint	Skeleton
+Left Costotransverse joint	Joint → Ribs → Left → Costotransverse joint	Skeleton
+Right Costotransverse joint	Joint → Ribs → Right → Costotransverse joint	Skeleton
+Left Sternocostal joint	Joint → Ribs → Left → Sternocostal joint	Skeleton
+Right Sternocostal joint	Joint → Ribs → Right → Sternocostal joint	Skeleton
+Sacroiliac joint	Joint → Pelvis → Sacroiliac joint	Skeleton
+Left Glenohumeral joint	Joint → Shoulder → Left → Glenohumeral joint	Skeleton
+Right Glenohumeral joint	Joint → Shoulder → Right → Glenohumeral joint	Skeleton
+Left Acromioclavicular joint	Joint → Shoulder → Left → Acromioclavicular joint	Skeleton
+Right Acromioclavicular joint	Joint → Shoulder → Right → Acromioclavicular joint	Skeleton
+Left Sternoclavicular joint	Joint → Shoulder → Left → Sternoclavicular joint	Skeleton
+Right Sternoclavicular joint	Joint → Shoulder → Right → Sternoclavicular joint	Skeleton
+Left Scapulothoracic articulation	Joint → Shoulder → Left → Scapulothoracic articulation	Skeleton
+Right Scapulothoracic articulation	Joint → Shoulder → Right → Scapulothoracic articulation	Skeleton
+Left Humeroulnar joint	Joint → Elbow → Left → Humeroulnar joint	Skeleton
+Right Humeroulnar joint	Joint → Elbow → Right → Humeroulnar joint	Skeleton
+Left Humeroradial joint	Joint → Elbow → Left → Humeroradial joint	Skeleton
+Right Humeroradial joint	Joint → Elbow → Right → Humeroradial joint	Skeleton
+Left Proximal radioulnar joint	Joint → Elbow → Left → Proximal radioulnar joint	Skeleton
+Right Proximal radioulnar joint	Joint → Elbow → Right → Proximal radioulnar joint	Skeleton
+Left Distal radioulnar joint	Joint → Wrist → Left → Distal radioulnar joint	Skeleton
+Right Distal radioulnar joint	Joint → Wrist → Right → Distal radioulnar joint	Skeleton
+Left Radiocarpal joint	Joint → Wrist → Left → Radiocarpal joint	Skeleton
+Right Radiocarpal joint	Joint → Wrist → Right → Radiocarpal joint	Skeleton
+Left Midcarpal joints	Joint → Wrist → Left → Midcarpal joints	Skeleton
+Right Midcarpal joints	Joint → Wrist → Right → Midcarpal joints	Skeleton
+Left Thumb carpometacarpal joint	Joint → Hand → Left → Thumb carpometacarpal joint	Skeleton
+Right Thumb carpometacarpal joint	Joint → Hand → Right → Thumb carpometacarpal joint	Skeleton
+Left Metacarpophalangeal joints	Joint → Hand → Left → Metacarpophalangeal joints	Skeleton
+Right Metacarpophalangeal joints	Joint → Hand → Right → Metacarpophalangeal joints	Skeleton
+Left Interphalangeal joints	Joint → Hand → Left → Interphalangeal joints	Skeleton
+Right Interphalangeal joints	Joint → Hand → Right → Interphalangeal joints	Skeleton
+Left Hip joint	Joint → Hip → Left → Hip joint	Skeleton
+Right Hip joint	Joint → Hip → Right → Hip joint	Skeleton
+Left Tibiofemoral joint	Joint → Knee → Left → Tibiofemoral joint	Skeleton
+Right Tibiofemoral joint	Joint → Knee → Right → Tibiofemoral joint	Skeleton
+Left Patellofemoral joint	Joint → Knee → Left → Patellofemoral joint	Skeleton
+Right Patellofemoral joint	Joint → Knee → Right → Patellofemoral joint	Skeleton
+Left Proximal tibiofibular joint	Joint → Knee → Left → Proximal tibiofibular joint	Skeleton
+Right Proximal tibiofibular joint	Joint → Knee → Right → Proximal tibiofibular joint	Skeleton
+Left Distal tibiofibular joint	Joint → Ankle → Left → Distal tibiofibular joint	Skeleton
+Right Distal tibiofibular joint	Joint → Ankle → Right → Distal tibiofibular joint	Skeleton
+Left Talocrural joint	Joint → Ankle → Left → Talocrural joint	Skeleton
+Right Talocrural joint	Joint → Ankle → Right → Talocrural joint	Skeleton
+Left Subtalar joint	Joint → Ankle → Left → Subtalar joint	Skeleton
+Right Subtalar joint	Joint → Ankle → Right → Subtalar joint	Skeleton
+Left Talonavicular joint	Joint → Foot → Left → Talonavicular joint	Skeleton
+Right Talonavicular joint	Joint → Foot → Right → Talonavicular joint	Skeleton
+Left Calcaneocuboid joint	Joint → Foot → Left → Calcaneocuboid joint	Skeleton
+Right Calcaneocuboid joint	Joint → Foot → Right → Calcaneocuboid joint	Skeleton
+Left Tarsometatarsal joints	Joint → Foot → Left → Tarsometatarsal joints	Skeleton
+Right Tarsometatarsal joints	Joint → Foot → Right → Tarsometatarsal joints	Skeleton
+Left Metatarsophalangeal joints	Joint → Foot → Left → Metatarsophalangeal joints	Skeleton
+Right Metatarsophalangeal joints	Joint → Foot → Right → Metatarsophalangeal joints	Skeleton
+Temporomandibular joint	Joint → Head / Jaw → Temporomandibular joint	Skeleton
+Atlanto-occipital joint	Joint → Head / Jaw → Atlanto-occipital joint	Skeleton
+Atlantoaxial joint	Joint → Head / Jaw → Atlantoaxial joint	Skeleton
+C2-C3 intervertebral disc	Disc → Cervical spine → C2-C3 disc	Skeleton
+C3-C4 intervertebral disc	Disc → Cervical spine → C3-C4 disc	Skeleton
+C4-C5 intervertebral disc	Disc → Cervical spine → C4-C5 disc	Skeleton
+C5-C6 intervertebral disc	Disc → Cervical spine → C5-C6 disc	Skeleton
+C6-C7 intervertebral disc	Disc → Cervical spine → C6-C7 disc	Skeleton
+C7-T1 intervertebral disc	Disc → Cervical spine → C7-T1 disc	Skeleton
+T1-T2 intervertebral disc	Disc → Thoracic spine → T1-T2 disc	Skeleton
+T2-T3 intervertebral disc	Disc → Thoracic spine → T2-T3 disc	Skeleton
+T3-T4 intervertebral disc	Disc → Thoracic spine → T3-T4 disc	Skeleton
+T4-T5 intervertebral disc	Disc → Thoracic spine → T4-T5 disc	Skeleton
+T5-T6 intervertebral disc	Disc → Thoracic spine → T5-T6 disc	Skeleton
+T6-T7 intervertebral disc	Disc → Thoracic spine → T6-T7 disc	Skeleton
+T7-T8 intervertebral disc	Disc → Thoracic spine → T7-T8 disc	Skeleton
+T8-T9 intervertebral disc	Disc → Thoracic spine → T8-T9 disc	Skeleton
+T9-T10 intervertebral disc	Disc → Thoracic spine → T9-T10 disc	Skeleton
+T10-T11 intervertebral disc	Disc → Thoracic spine → T10-T11 disc	Skeleton
+T11-T12 intervertebral disc	Disc → Thoracic spine → T11-T12 disc	Skeleton
+T12-L1 intervertebral disc	Disc → Thoracic spine → T12-L1 disc	Skeleton
+L1-L2 intervertebral disc	Disc → Lumbar spine → L1-L2 disc	Skeleton
+L2-L3 intervertebral disc	Disc → Lumbar spine → L2-L3 disc	Skeleton
+L3-L4 intervertebral disc	Disc → Lumbar spine → L3-L4 disc	Skeleton
+L4-L5 intervertebral disc	Disc → Lumbar spine → L4-L5 disc	Skeleton
+L5-S1 intervertebral disc	Disc → Lumbar spine → L5-S1 disc	Skeleton
